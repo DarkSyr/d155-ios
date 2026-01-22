@@ -99,7 +99,7 @@ ifxlAYBf7paLlo+Ct1kev/RjQAQHhkdI+N/tFGJIdj6K8pcy7wryftRZrneepQ5K
       <dict>
         <key>AcceptEAPTypes</key>
         <array>
-          <integer>13</integer> <!-- EAP‑TLS -->
+          <integer>25</integer> <!-- EAP‑TLS -->
         </array>
 
         <key>TrustedServerNames</key>

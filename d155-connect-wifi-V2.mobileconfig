@@ -19,7 +19,7 @@
       <string>edu.d155.ca</string>
 
       <key>PayloadUUID</key>
-      <string>66c52b06-f86d-4bed-b2c0-b5a2161487ee</string>
+      <string>9129146e-e430-430f-81e7-03169b95c881</string>
 
       <key>PayloadDisplayName</key>
       <string>D155 Certificate Authority</string>
@@ -83,7 +83,7 @@
   <string>edu.d155.profile</string>
 
   <key>PayloadUUID</key>
-  <string>66c52b06-f86d-4bed-b2c0-b5a2161487ee</string>
+  <string>cf3a87c7-63e9-4af1-b2db-bb9f536bb608</string>
 
   <key>PayloadDisplayName</key>
   <string>D155 Wi‑Fi</string>

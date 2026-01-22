@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>SSID_STR</key>
+      <string>D155-Student</string>
+      <key>HIDDEN_NETWORK</key>
+      <false/>
+      <key>EncryptionType</key>
+      <string>WPA2Enterprise</string>
+      <key>EAPClientConfiguration</key>
+      <dict>
+        <key>AcceptEAPTypes</key>
+        <array>
+          <integer>25</integer> <!-- PEAP -->
+        </array>
+        <key>TLSClientIdentity</key>
+        <string></string> <!-- leave blank for iPhone login -->
+        <key>TrustedServerNames</key>
+        <array>
+          <string>D155-DCERT01-CA</string> <!-- must match school CA -->
+        </array>
+      </dict>
+    </dict>
+  </array>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadIdentifier</key>
+  <string>edu.d155.studentwifi</string>
+  <key>PayloadUUID</key>
+  <string>66c52b06-f86d-4bed-b2c0-b5a2161487ee</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+  <key>PayloadDisplayName</key>
+  <string>D155 Student Wi-Fi</string>
+</dict>
+</plist>
